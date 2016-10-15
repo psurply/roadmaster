@@ -1,0 +1,7 @@
+*.o
+*.d
+*~
+.moc/
+.ui/
+design/*.h
+config.mk

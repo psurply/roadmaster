@@ -1,0 +1,9 @@
+#! /bin/sh
+
+if [ -z "$QDIR" ]
+then
+    echo "Error: QDIR not set"
+    exit 2
+fi
+
+echo QDIR=$QDIR > config.mk

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Comment=A simple TripMaster for FriendlyARM
+Exec=roadmaster-gui
+Icon=roadmaster
+Type=Application
+Name=RoadMaster
